@@ -20,7 +20,7 @@ export default function Home() {
         <FaUser className="text-4xl text-green-500" />
       </div>
 
-      {/* Welcome Message */}
+      <h1> Welcome to Splash App </h1>
       <h1 className="text-4xl font-bold text-gray-800 mb-4">
         Welcome to Splash App!
       </h1>
